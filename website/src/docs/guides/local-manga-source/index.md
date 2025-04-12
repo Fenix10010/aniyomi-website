@@ -1,3 +1,4 @@
+![Uploading IMG_20250412_122404_966.jpg…]()
 ---
 title: Local source
 titleTemplate: Guides
